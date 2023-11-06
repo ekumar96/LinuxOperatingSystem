@@ -1,4 +1,7 @@
 # LinuxOperatingSystem
+
+Note: Repos within this project/list contain code that cannot be made public. If you would like to see this code please contact me.
+
 Kernel Programming for various OS components in C++
 - Wrote Linux Round-robin CPU scheduler and compared performance to CFS as well as MuQSS (BFS) scheduler
 - Wrote Multi-threaded, multi-process web server with interprocess communication that listens through multiple sockets
